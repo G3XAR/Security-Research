@@ -11,4 +11,4 @@ Unauthorized exploitation is prohibited and may have legal consequences.
 
 ---
 
-Keep software updated and test only in controlled environments.
+
