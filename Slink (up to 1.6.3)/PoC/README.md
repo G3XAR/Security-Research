@@ -14,7 +14,7 @@ A stored Cross-Site Scripting (XSS) vulnerability has been identified in Slink, 
 The application fails to properly sanitize uploaded SVG files, allowing attackers to embed arbitrary JavaScript code.  
 When a user views the image, the script executes in the context of their browser.
 
-Although Slink is typically deployed in private or restricted environments, its flexibility also allows it to be exposed to broader networks—either intentionally or accidentally.  
+Although Slink is typically deployed in private or restricted environments, its flexibility also allows it to be exposed to broader networks—either intentionally or accidentally. 
 If an attacker gains access to the internal network, or if the platform is deployed in a public-facing setup, this vulnerability could be exploited.
 
 ## Impact
@@ -27,6 +27,8 @@ If an attacker gains access to the internal network, or if the platform is deplo
 2. Log in to Slink and upload the SVG via the image upload interface.  
 3. Share the direct link.  
 4. The embedded script executes automatically when the image is opened—no login required.
+
+![Slink_PoC](https://github.com/user-attachments/assets/2dad2c9f-1c54-4ec1-b89d-4c7a23073fa5)
 
 *Tested on PC and mobile devices.*
 
