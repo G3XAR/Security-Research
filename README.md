@@ -1,6 +1,6 @@
 # Vulnerability-Research
 
-This repository contains CVE reports and PoCs.
+This repository contains CVE reports and Proof-of-Concepts.
 
 ---
 
