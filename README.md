@@ -1,13 +1,9 @@
-# Vulnerability-Research
+# Vulnerability Research
 
-This repository contains CVE reports and Proof-of-Concepts.
+This repository contains CVE reports and Proof-of-Concepts for security vulnerabilities.
 
----
-
-## Important
-
-Use these materials responsibly and only for lawful and ethical purposes.  
-Unauthorized exploitation is prohibited and may have legal consequences.
+## Published CVEs
+- [CVE-2025-55944: Stored XSS in Slink (v1.4.9 – v1.6.3)](./CVE-2025-55944)
 
 ---
 
