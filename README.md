@@ -1,4 +1,4 @@
-# Vulnerability Research
+# Security Research
 
 This repository contains CVE reports and Proof-of-Concepts for security vulnerabilities.
 
