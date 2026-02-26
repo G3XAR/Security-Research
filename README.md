@@ -6,6 +6,8 @@ This repository contains CVE reports and Proof-of-Concepts for security vulnerab
 - [CVE-2025-55944: XSS via crafted SVG uploads (Slink 1.4.9 – 1.6.3)](CVE-2025-55944/README.md)
 - [CVE-2026-26993: XSS in Raw File Preview (Flare <1.7.0)](CVE-2026-26993/README.md)
 - [CVE-2026-27198: Improper Privilege Management in User creation (Formwork 2.0.0 - 2.3.3)](CVE-2026-27198/README.md)
+- [CVE-2026-28274: Token Theft via Stored XSS in Document Uploads (Initiative < 0.32.2)](CVE-2026-28274/README.md)
+- [CVE-2026-28275: Improper JWT Token Invalidation (Initiative < 0.32.4)](CVE-2026-28275/README.md)
   
 ---
 
