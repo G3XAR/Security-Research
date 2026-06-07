@@ -11,7 +11,8 @@ This repository contains CVE reports and Proof-of-Concepts for security vulnerab
 - [CVE-2026-28274: Token Theft via Stored XSS in Document Uploads (Initiative < 0.32.2)](CVE-2026-28274/README.md)
 - [CVE-2026-28275: Improper JWT Token Invalidation (Initiative < 0.32.4)](CVE-2026-28275/README.md)
 - [CVE-2026-31874: Improper Role Assignment via Parameter Manipulation (Taskosaur < 1.0.0)](CVE-2026-31874/README.md)
-  
+- [CVE-2026-36494: Resource Exhaustion (Shoutrrr <= 0.8.0)](CVE-2026-36494/README.md)
+   
 ---
 
 
